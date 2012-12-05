@@ -1,7 +1,7 @@
-## Automated Bootstraps for various environments and situations
+# Automated Bootstraps for various environments and situations
 
-# Sinatra / Backbone
+## Sinatra / Backbone
 
-# Rails
+## Rails
 
-# Node.js
+## Node.js
