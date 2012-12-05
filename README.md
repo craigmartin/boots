@@ -1,4 +1,4 @@
-# Automated Bootstraps for various environments and situations
+# My own bag of Automated Bootstraps for various environments and situations
 
 ## Sinatra / Backbone
 
